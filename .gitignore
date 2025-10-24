@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CosmosProject_Demo/.vs/CosmosProject_Demo
+/CosmosProject_Demo/CosmosProject_Demo/obj
