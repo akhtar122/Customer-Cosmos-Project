@@ -15,7 +15,7 @@ namespace CosmosProject_Demo.Controllers
 
         public IActionResult Index()
         {
-            var items = new List<string> { "Item1", "Item2", "Item3" };
+            var items = new List<string> { "raju", "ameer", "sonu" };
             return View(items);
         }
 
