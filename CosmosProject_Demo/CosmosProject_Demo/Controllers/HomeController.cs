@@ -15,7 +15,8 @@ namespace CosmosProject_Demo.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var items = new List<string> { "Item1", "Item2", "Item3" };
+            return View(items);
         }
 
         public IActionResult Privacy()
